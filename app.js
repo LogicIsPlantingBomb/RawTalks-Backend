@@ -18,7 +18,7 @@ connectToDb();
 
 // Use the configured cors middleware
 app.use(cors({
-  origin: "https://raw-talks.vercel.app/",
+  origin: "https://raw-talks.vercel.app",
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
