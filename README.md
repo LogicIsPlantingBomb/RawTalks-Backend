@@ -1,4 +1,4 @@
-# TruthStream Backend API
+# RawTalks-Backend API
 
 A robust Node.js backend API for the TruthStream opinion-sharing platform, handling user authentication, opinion management, comments, and voting functionality.
 
